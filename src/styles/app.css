@@ -1,0 +1,16 @@
+.App {
+  color: whitesmoke;
+  border-radius: 25px red;
+  height: max-content;
+}
+
+.each {
+  font-family: sans-serif;
+  color: black;
+  background-color: cornflowerblue;
+  padding: 1em;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 20px;
+  margin-bottom: 10px;
+}
